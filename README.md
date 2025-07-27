@@ -11,8 +11,8 @@ SOEN develops the first mathematical framework for embedding moral weight direct
 - **Dual-LLM Architecture**: Separated generation and moral evaluation
 
 ## Files
-- `eft_whitepaper.md` - Complete technical framework
-- `soen_business_plan.md` - Research proposal and funding strategy
+- [`eft_whitepaper.md`] - Complete technical framework
+- [`soen_business_plan.md`] - Research proposal and funding strategy
 - `LICENSE` - MIT License
 
 ## Applications
