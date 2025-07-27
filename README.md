@@ -12,7 +12,7 @@ SOEN develops the first mathematical framework for embedding moral weight direct
 
 ## Files
 - `eft_whitepaper.md` - Complete technical framework
-- `business_plan.md` - Research proposal and funding strategy
+- `soen_business_plan.md` - Research proposal and funding strategy
 - `LICENSE` - MIT License
 
 ## Applications
