@@ -11,9 +11,8 @@ SOEN develops the first mathematical framework for embedding moral weight direct
 - **Dual-LLM Architecture**: Separated generation and moral evaluation
 
 ## Files
-- [`eft_whitepaper.md`] - Complete technical framework
-- [`soen_business_plan.md`] - Research proposal and funding strategy
-- `LICENSE` - MIT License
+- [`effectional_tokenization_whitepaper.md`](effectional_tokenization_whitepaper.md) - Complete technical framework
+- [`business_plan.md`](business_plan.md) - Research proposal and funding strategy
 
 ## Applications
 Direct relevance to model welfare, AI safety, and culturally-sensitive AI systems.
