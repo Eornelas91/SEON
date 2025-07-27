@@ -12,7 +12,7 @@ SOEN develops the first mathematical framework for embedding moral weight direct
 
 ## Files
 - [`effectional_tokenization_whitepaper.md`](effectional_tokenization_whitepaper.md) - Complete technical framework
-- [`business_plan.md`](business_plan.md) - Research proposal and funding strategy
+- [`soen_business_plan.md`](soen_business_plan.md) - Research proposal and funding strategy
 
 ## Applications
 Direct relevance to model welfare, AI safety, and culturally-sensitive AI systems.
